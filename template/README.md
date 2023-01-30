@@ -36,4 +36,4 @@ yarn run android
 yarn run test
 ```
 
-**Note: If your environment variables do not load even though you have added it, try `yarn start --reset-cache` and run it again on android and iOS.
+**Note: _If your environment variables do not load even though you have added it, try `yarn start --reset-cache` and run it again on android and iOS._**
