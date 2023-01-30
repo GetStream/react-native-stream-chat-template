@@ -1,5 +1,8 @@
 # React Native Stream Chat Template
 
+[![NPM](https://img.shields.io/npm/v/stream-chat-react-native-devtools.svg)](https://www.npmjs.com/package/stream-chat-react-native-devtools)
+
+
 This repository contains the starter template for [Stream Chat](https://github.com/GetStream/stream-chat-react-native) for React Native.
 
 ## Usage guide
@@ -20,6 +23,6 @@ The keys for the environment variables are as follows:
 
 ## Version compatibility
 
-| React Native | Template |
-| ------------ | -------- |
-| 0.71.1       | 1.0.0    |
+| React Native | RN SDK Version | Template |
+| ------------ | -------------- | -------- |
+| 0.71.1       | 5.9.0          | 1.0.0    |
