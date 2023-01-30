@@ -1,0 +1,30 @@
+{
+    "name": "react-native-stream-chat-template",
+    "description": "React Native template with Stream Chat",
+    "version": "1.0.0",
+    "author": {
+        "name": "Khushal Agarwal",
+        "email": "khushal.agarwal@getstream.io"
+    },
+    "license": "SEE LICENSE IN LICENSE",
+    "scripts": {},
+    "files": [
+        "template",
+        "template.config.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GetStream/react-native-stream-chat-template"
+    },
+    "homepage": "git+https://github.com/GetStream/react-native-stream-chat-template.git#readme",
+    "keywords": [
+        "react-native",
+        "typescript",
+        "template",
+        "boilerplate",
+        "chat",
+        "stream"
+    ],
+    "dependencies": {},
+    "devDependencies": {}
+}
