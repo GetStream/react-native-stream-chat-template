@@ -1,6 +1,6 @@
 # React Native Stream Chat Template
 
-[![NPM](https://img.shields.io/npm/v/stream-chat-react-native-devtools.svg)](https://www.npmjs.com/package/stream-chat-react-native-devtools)
+[![NPM](https://img.shields.io/npm/v/stream-chat-react-native-devtools.svg)](https://www.npmjs.com/package/react-native-stream-chat-template)
 
 
 This repository contains the starter template for [Stream Chat](https://github.com/GetStream/stream-chat-react-native) for React Native.
