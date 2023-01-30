@@ -16,3 +16,10 @@ The keys for the environment variables are as follows:
 1. `STREAM_CHAT_API_KEY`
 2. `STREAM_CHAT_USER_ID`
 3. `STREAM_CHAT_USER_TOKEN`
+
+
+## Version compatibility
+
+| React Native | Template |
+| ------------ | -------- |
+| 0.71.1       | 1.0.0    |
