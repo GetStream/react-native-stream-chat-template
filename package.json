@@ -1,7 +1,7 @@
 {
     "name": "react-native-stream-chat-template",
     "description": "React Native template with Stream Chat",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "author": {
         "name": "Khushal Agarwal",
         "email": "khushal.agarwal@getstream.io"

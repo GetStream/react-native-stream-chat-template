@@ -26,3 +26,4 @@ The keys for the environment variables are as follows:
 | React Native | RN SDK Version | Template |
 | ------------ | -------------- | -------- |
 | 0.71.1       | 5.9.0          | 1.0.0    |
+| 0.71.1       | 5.9.0          | 1.0.1    |
