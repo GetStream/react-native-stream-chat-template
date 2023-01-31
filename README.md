@@ -13,7 +13,7 @@ To use the template, run the following command:
 npx react-native init StreamChatApp --template react-native-stream-chat-template
 ```
 
-After the template is initialized. Make sure you add the environment Variables according to your API key, user id and user token.
+After the template is initialized, create a `.env` file and add the Environment Variables(API key, User Id and User Token) inside the `.env` file.
 
 The keys for the environment variables are as follows:
 1. `STREAM_CHAT_API_KEY`
@@ -21,7 +21,7 @@ The keys for the environment variables are as follows:
 3. `STREAM_CHAT_USER_TOKEN`
 
 
-## Version compatibility
+## Template Version compatibility
 
 | React Native | RN SDK Version | Template |
 | ------------ | -------------- | -------- |

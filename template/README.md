@@ -3,9 +3,9 @@
 A basic chat application using [Stream Chat React Native](https://github.com/GetStream/stream-chat-react-native).
 
 
-## Install
+## Installation steps
 
-Your Stream chat API key and API secret as well as a user ID and user token need to exist either in your $PATH or in `/<app-directory>/.env`. See [.env.example](./.env.example). 
+Create `.env` file in the root of the project and add your environment variables(Stream chat API key, User ID and User Token) in the file. See [.env.example](./.env.example).
 
 The keys for the environment variables are as follows:
 1. `STREAM_CHAT_API_KEY`
