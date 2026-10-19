@@ -1,3 +1,5 @@
+> **This repository is archived and no longer maintained.** For a current alternative, see [the React Native chat tutorial](https://getstream.io/chat/sdk/react-native/tutorial/cli/).
+
 # React Native Stream Chat Template
 
 [![NPM](https://img.shields.io/npm/v/stream-chat-react-native-devtools.svg)](https://www.npmjs.com/package/react-native-stream-chat-template)
